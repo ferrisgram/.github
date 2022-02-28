@@ -15,5 +15,3 @@
 </p>
 
 <h1 align="center">Ferrisgram</h1>
-
-<h2 align="center">Coming Soon</h2>
